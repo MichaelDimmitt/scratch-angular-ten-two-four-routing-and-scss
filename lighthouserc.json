@@ -1,7 +1,7 @@
 {
   "ci": {
     "collect": {
-      "staticDistDir": "./dist/scratch-angular-thirteen-three-one"
+      "staticDistDir": "./dist/scratch-angular-ten-two-four-routing-and-scss"
     },
     "upload": {
       "target": "temporary-public-storage"
